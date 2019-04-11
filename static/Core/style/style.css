@@ -157,7 +157,7 @@ background-color: #ff0015;
 -moz-box-shadow: 9px 10px 39px -2px rgba(0,0,0,0.3);
 box-shadow: 9px 10px 39px -2px rgba(0,0,0,0.3);
 
-background-image: url("/staticfiles/Core/images/56474566_407777240034549_3371019504489332736_n.jpg");
+background-image: url("/Core/static/Core/images/56474566_407777240034549_3371019504489332736_n.jpg");
 background-size: contain;
 background-position: center;
 background-repeat: no-repeat;
